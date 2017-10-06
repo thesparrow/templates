@@ -9,7 +9,10 @@ a {
     color: ;
 }
 
-    a:hover,
+    a:link, 
+    a:visited,
+    a:active, 
+    a:hover
     a:focus {
         color: ;
     }
